@@ -1,6 +1,9 @@
 # api_practice
 
-A new Flutter project.
+PostAPI Intergration Practice
+
+![image](https://user-images.githubusercontent.com/57399229/185033284-d1b6b402-f1cd-4fad-b94d-3b2e7bac24fd.png)
+
 
 ## Getting Started
 
